@@ -1,4 +1,4 @@
-https://www.linuxtechi.com/20-useful-docker-command-examples-linux/
+﻿https://www.linuxtechi.com/20-useful-docker-command-examples-linux/
 
 Example:1 Verify Docker Version
 [root@docker ~]# docker --version
@@ -242,3 +242,6 @@ Cleaning Up Your Docker Environment:
     docker kill $(docker ps -q): Kill all containers that are currently running.
     docker rm [container]: Delete a particular container that is not currently running.
     docker rm $(docker ps -a -q): Delete all containers that are not currently running.
+
+Thanks.
+Ankur
