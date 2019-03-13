@@ -1,0 +1,21 @@
+2019-03-13T12:24:35.107+0530 INFO @BeforeSuite
+2019-03-13T12:24:35.275+0530 INFO Browser is ---> firefox. And Url is ---> http://google.com
+2019-03-13T12:24:35.277+0530 INFO onStart : Test
+2019-03-13T12:24:35.279+0530 INFO @BeforeTest
+2019-03-13T12:24:35.288+0530 INFO Before Class
+2019-03-13T12:24:35.299+0530 INFO OPENING BROWSER... >> firefox
+2019-03-13T12:24:39.294+0530 INFO The name of the testcase started is :test_google_home_result_count
+2019-03-13T12:24:39.295+0530 INFO OPENING GOOGLE.COM...
+2019-03-13T12:24:45.542+0530 INFO Searching something on google
+2019-03-13T12:24:48.690+0530 INFO The name of the testcase failed is :test_google_home_result_count
+2019-03-13T12:24:49.044+0530 INFO CLOSING BROWSER... >> firefox
+2019-03-13T12:24:50.241+0530 INFO OPENING BROWSER... >> firefox
+2019-03-13T12:24:53.032+0530 INFO The name of the testcase started is :test_google_home_title
+2019-03-13T12:24:53.033+0530 INFO OPENING http://google.com...
+2019-03-13T12:24:55.461+0530 INFO Searching something on google
+2019-03-13T12:24:58.097+0530 INFO The name of the testcase passed is :test_google_home_title
+2019-03-13T12:24:58.148+0530 INFO CLOSING BROWSER... >> firefox
+2019-03-13T12:24:59.294+0530 INFO After Class
+2019-03-13T12:24:59.295+0530 INFO @AfterTest
+2019-03-13T12:24:59.316+0530 INFO onFinish : Test
+2019-03-13T12:24:59.318+0530 INFO @AfterSuite
