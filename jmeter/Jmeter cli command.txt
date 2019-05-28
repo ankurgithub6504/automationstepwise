@@ -1,0 +1,4 @@
+
+C:\Users\adubey\Desktop\Apache Jmeter\apache-jmeter-5.1.1\bin>jmeter -n -t D:\Jmeter\concurrent1.jmx -l D:\Jmeter\log.jtl -e -o D:\Jmeter\op
+
+jmeter -Jthreads=50 -n -t D:\Jmeter\concurrent1.jmx -l D:\Jmeter\log.jtl -j D:\Jmeter\mylog.txt -e -o D:\Jmeter\op -f
